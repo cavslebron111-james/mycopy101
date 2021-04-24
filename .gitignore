@@ -2,4 +2,17 @@
 
 # dependencies22
 /node_modules
+/build
+
+dev.js
 default.json
+
+
+
+.DS_Store
+
+npm-debug.log*
+yarn-debug.kog*
+yarn-error.log*
+
+.vscode
